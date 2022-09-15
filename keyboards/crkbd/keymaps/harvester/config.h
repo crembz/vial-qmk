@@ -21,7 +21,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VIAL_KEYBOARD_UID {0xC1, 0x00, 0x1E, 0x06, 0xC4, 0x9F, 0x19, 0x80}
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 3, 0 }
-#define VIALRGB_NO_DIRECT
+//#define VIALRGB_NO_DIRECT
 /* Select hand configuration */
 
 #define MASTER_LEFT

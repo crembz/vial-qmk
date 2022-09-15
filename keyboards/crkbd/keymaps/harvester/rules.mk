@@ -27,3 +27,4 @@ RGBLIGHT_ENABLE = no
 
 
 SPLIT_KEYBOARD = yes
+SRC += ./rgb.c
